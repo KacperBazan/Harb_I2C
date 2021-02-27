@@ -3,7 +3,7 @@
 
 ## Assignment 1
 [Link to TinkerCad Assignment #1](https://www.tinkercad.com/things/1Y829MUgXTu)
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/KacperBazan/Harb_I2C/blob/main/Assignment1_I2C.PNG)
 
 ## Assignment 2
 Coming soon
