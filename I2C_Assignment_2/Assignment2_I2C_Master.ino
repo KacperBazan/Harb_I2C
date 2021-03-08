@@ -42,23 +42,23 @@ void RequestData(int numSlave, int numBytes, char saveData[])
 
 void SendData_Int(int numSlave, int numBytes, int sendData[])
 {
+  Wire.beginTransmission(numSlave);
   for (int i = 0; i < numBytes; i++)
   {
-    Wire.beginTransmission(numSlave);
     Wire.write(sendData[i]);
-    Wire.endTransmission();
   }
+  Wire.endTransmission();
   delay(td);
 }
 
 void SendData_Char(int numSlave, int numBytes, char sendData[])
 {
+  Wire.beginTransmission(numSlave);
   for (int i = 0; i < numBytes; i++)
   {
-    Wire.beginTransmission(numSlave);
     Wire.write(sendData[i]);
-    Wire.endTransmission();
   }
+  Wire.endTransmission();
   delay(td);
 }
 
