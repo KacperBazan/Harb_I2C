@@ -16,7 +16,7 @@
 ![alt text](https://github.com/KacperBazan/Harb_I2C/blob/main/Assignment1_I2C.PNG)
 
 ### Assignment_2 with [TinkerCad Link](https://www.tinkercad.com/things/iEH3ia4aWTj)
-![alt text]((https://IMAGE2)
+![alt text](https://github.com/KacperBazan/Harb_I2C/blob/main/Assignment2_I2C.PNG)
 
 ## Credits
 - **Ali Harb** - Created school assignment that introduced me to I2C communication.
